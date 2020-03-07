@@ -1,0 +1,7 @@
+*{
+color: red;
+border: 1xp solid black;
+margin 
+
+
+}
